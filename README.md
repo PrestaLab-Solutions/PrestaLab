@@ -7,4 +7,4 @@ Somos un estudio técnico especializado exclusivamente en el ecosistema **Presta
 - 🛡️ **Ciberseguridad y auditoría** (limpieza de malware, cierre de brechas y blindaje de checkout)
 - 🔄 **Integraciones con ERP / TPV** y pasarelas de pago
 
-🌐 Conoce más sobre nuestro trabajo en [PrestaLab](https://prestalab.es/)
+🌐 Conoce más sobre nuestro trabajo en [PrestaLab.es](https://prestalab.es/)
